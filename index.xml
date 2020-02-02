@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ampersand Softworks - Personal site for brett ohland</title>
-    <link>http://ampersandwoftworks.com/</link>
+    <link>https://brettohland.github.io/ampersandsoftworks/</link>
     <description>Recent content on Ampersand Softworks - Personal site for brett ohland</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-        <atom:link href="http://ampersandwoftworks.com/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://brettohland.github.io/ampersandsoftworks/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Posts</title>
