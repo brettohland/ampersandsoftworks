@@ -1,0 +1,4 @@
+baseURL = "http://ampersandwoftworks.com/"
+languageCode = "en-us"
+title = "Ampersand Softworks - Personal site for brett ohland"
+theme = "aether"
