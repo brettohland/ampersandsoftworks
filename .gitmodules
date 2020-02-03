@@ -1,3 +1,6 @@
 [submodule "themes/aether"]
 	path = themes/aether
 	url = git@github.com:brettohland/aether.git
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = https://github.com/brettohland/hugo-theme-terminal.git
